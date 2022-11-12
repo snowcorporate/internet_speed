@@ -1,6 +1,6 @@
 name: internet_speed
 description: Internet speed test plugin to integrate it in your app whenever you want.
-version: 1.5.0
+version: 1.0.0
 homepage: https://github.com/snowcorporate/internet_speed.git
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  tuple: ^2.0.0
+  tuple: ^2.0.1
 
 dev_dependencies:
   flutter_test:

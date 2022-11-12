@@ -1,6 +1,6 @@
-# internet_speed_test_example
+# internet_speed_example
 
-Demonstrates how to use the internet_speed_test plugin.
+Demonstrates how to use the internet_speed plugin.
 
 ## Getting Started
 
